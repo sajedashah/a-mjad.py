@@ -1,2 +1,2 @@
-# a-mjad.py
+# amjad
 print(amjad)
